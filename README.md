@@ -9,8 +9,8 @@ Skills em desenvolvimento: 🖖
 [X] Python Básico<br />
 [X] Python Intermediário<br />
 [X] Python Avançado<br />
-[ ] Git e GitHub<br />
-[ ] PytQT5<br />
+[X] Git e GitHub<br />
+[ ] PyQT5<br />
 [ ] Html5<br />
 [ ] Css<br />
 [ ] JS<br />
