@@ -18,7 +18,8 @@ Skills em desenvolvimento: 🖖
 [ ] Flask<br />
 [ ] MongoDB(NoSQL)<br />
 [ ] Docker<br />
-[ ] TypeScript<br />
+[ ] React JS
+[ ] Node.js
 
 
 ---
