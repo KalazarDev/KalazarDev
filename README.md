@@ -10,7 +10,7 @@ Skills em desenvolvimento: 🖖
 [X] Python Intermediário<br />
 [X] Python Avançado<br />
 [X] Git e GitHub<br />
-[ ] Html5<br />
+[X] Html5<br />
 [ ] Css<br />
 [ ] JS<br />
 [ ] MongoDB(NoSQL)<br />
