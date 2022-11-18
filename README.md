@@ -11,14 +11,14 @@ Skills em desenvolvimento: 🖖
 [X] Python Avançado<br />
 [X] Git e GitHub<br />
 [X] Html5<br />
-[ ] Css<br />
+[X] Css<br />
 [ ] JS<br />
 [ ] MongoDB(NoSQL)<br />
 [ ] Docker<br />
 [ ] React JS<br />
 [ ] Node.js<br />
 [ ] Django<br />
-[ ] Flask<br />
+[X] Flask<br />
 [ ] PyQT5<br />
 
 
