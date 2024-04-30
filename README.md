@@ -2,6 +2,7 @@
 
 Sou especialista em Redes Microsoft e Linux, atualmente estou em fase de transição de carreira para Programação.
 
+Atualmente faço desenvolvimento de Automações utilizando Python. 
 
 Skills em desenvolvimento: 🖖
 
